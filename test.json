@@ -1,1 +1,1 @@
-{"abc":true, "def":"g"}
+{"abc":true, "def":"g","array":[1, 2, 3,true,false,"string"]}
